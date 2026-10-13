@@ -50,8 +50,11 @@
 
     int main() {
         Rectangle rect1;
+        
         rect1.setWidth(5);
         rect1.setLength(10);
+
+        //output for rectangle one
         cout << "Rectangle 1: " << endl;
         cout << "Width: " << rect1.getWidth() << endl;
         cout << "Length: " << rect1.getLength() << endl;
@@ -59,8 +62,11 @@
         cout << "Perimeter: " << rect1.getPerimeter() << endl;
 
         Rectangle rect2;
+        
         rect2.setWidth(3);
         rect2.setLength(9);
+
+        //my output parameters for rectangle 2
         cout << "\nRectangle 2: " << endl;
         cout << "Width: " << rect2.getWidth() << endl;
         cout << "Length: " << rect2.getLength() << endl;
