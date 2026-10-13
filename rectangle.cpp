@@ -1,5 +1,7 @@
 
-    /*Take-home given to us
+    /*Take-home given to us on tuesday 
+    KALID ALIAS 25/U/0831
+    THE QUESTION
     Design a class called Rectangle with private members width and length.
     The class should have public member functions for getting and setting the width and length, 
     as well as functions for calculating the area and perimeter.
